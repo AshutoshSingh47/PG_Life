@@ -190,17 +190,8 @@ input[type="radio"] {
     margin: 0  16px;
 }
 
-.breadcrumb-item a{ 
-    color: #4dc7bc;
-    text-decoration: none;
-}
 
-.filter-bar > div{
-    cursor: pointer;
-    font-size: 13px;
-    text-align: center;
-    margin-bottom: 16px;
-}
+
 /*.search{
     height:38px;
 }*/
