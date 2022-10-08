@@ -70,3 +70,51 @@
 .page-container {
     padding: 64px 24px;
 }
+
+.property-name{
+    font-size: 18px;
+    font-weight:600 ;
+}
+
+.property-address{
+    font-size: 13px;
+    color: #6f6f6f;
+   padding-bottom: 5px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.property-gender img{
+    width: 100%;
+    max-width:40px ;
+}
+
+.rent-container{
+    display: flex;
+    align-items: center;
+}
+
+.rent {
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.rent-unit {
+    color: #6f6f6f;
+    font-size: 12px;
+}
+
+.button-container .btn {
+    font-size: 14px;
+    border-radius: 0px;
+    width: 140px;
+    float: right;
+}
+
+.custom-color{
+    background-color: #4dc7bc;
+    border-color: #4dc7bc;;
+}
