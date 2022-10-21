@@ -156,6 +156,48 @@
 
 .testimonial-block{
 	background-color:#fcfaf7 ;
-	padding: ;
+	padding: 0px 160px 24px ;
 	margin: 80px 0px;
+}
+
+@media(max-width: 768px)
+{
+	.testimonial-block{
+		padding: 0px 24px 24px ;
+	}
+}
+
+.testimonial-image-container{
+	text-align: center;
+}
+
+.testimonial-img{
+	width: 100px;
+	border-radius: 50%;
+	position: relative;
+	top: -40px;
+}
+
+.testimonial-text{
+	color: #777777 ;
+	text-align: center;
+	position: relative;
+}
+
+.testimonial-text i{
+	font-size: 20px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.testimonial-text p{
+	text-indent: 20px;
+}
+
+.testimonial-name{
+	color: #2F2E2E;
+	text-align: right;
+	font-weight: bold;
+	margin-top: 12px;
 }
