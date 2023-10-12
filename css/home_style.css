@@ -195,3 +195,10 @@ input[type="radio"] {
 /*.search{
     height:38px;
 }*/
+
+
+.modal-header button{
+    border: none;
+    background: transparent;
+    font-size: 1.5rem;
+}
